@@ -4,14 +4,6 @@ A **Flutter-based mobile app** for simple and secure financial tracking, powered
 
 ---
 
-## 👨‍💻 Developer
-
-**Muhammad Ahmad Khan**  
-Computer Science student  
-UET Peshawar, Jalozai Campus (3rd Semester)
-
----
-
 ## 🧾 Project Overview
 
 The **Khata App** allows users to securely manage and track basic financial records. Built using **Flutter** and **Firebase**, it supports multiple authentication methods and provides a user-friendly experience with light/dark theme options.
