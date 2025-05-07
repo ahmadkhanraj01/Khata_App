@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "645222474116",
+    "project_id": "khata-app-c91b1",
+    "storage_bucket": "khata-app-c91b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645222474116:android:ffeb6f3af47bbbd95c7dd1",
+        "android_client_info": {
+          "package_name": "com.ahmad.raj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM60h0ONH5udJRKbWkxt4AMl0Fr4lK-TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645222474116:android:1f0e71b55378f66c5c7dd1",
+        "android_client_info": {
+          "package_name": "com.ahmad.rajpoot.flutte.khata_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM60h0ONH5udJRKbWkxt4AMl0Fr4lK-TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
