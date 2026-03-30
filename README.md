@@ -66,5 +66,5 @@ The **Khata App** allows users to securely manage and track basic financial reco
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/khata_app.git
+   git clone https://github.com/ahmadkhanraj01/Khata_App.git
    cd khata_app
